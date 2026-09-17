@@ -36,7 +36,7 @@ st.markdown(
 )
 
 st.markdown(
-    "<p style='text-align: center; font-size: 16px;'>Developed by <b>Rishabh Khatana</b></p>",
+    "<p style='text-align: center; font-size: 16px;'>Developed by <b>Kulwinder Singh</b></p>",
     unsafe_allow_html=True
 )
 
